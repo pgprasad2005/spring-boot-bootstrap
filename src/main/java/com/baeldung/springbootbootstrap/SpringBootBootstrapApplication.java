@@ -16,10 +16,5 @@ public class SpringBootBootstrapApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootBootstrapApplication.class, args);
 	}
-	
-//	@GetMapping
-//	String sayHello() {
-//		return "Hello World";
-//	}
 
 }
